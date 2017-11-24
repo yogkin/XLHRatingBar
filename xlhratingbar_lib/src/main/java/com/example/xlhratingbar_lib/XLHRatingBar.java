@@ -55,6 +55,11 @@ public class XLHRatingBar extends LinearLayout {
         initView();
     }
 
+    public void setCanEdit(Boolean canEdit){
+        this.canEdit = canEdit;
+        initView();
+    }
+
     public int getCountSelected() {
         return countSelected;
     }

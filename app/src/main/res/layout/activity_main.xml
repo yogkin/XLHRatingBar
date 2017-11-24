@@ -18,7 +18,7 @@
 
     <com.example.xlhratingbar_lib.XLHRatingBar
         xmlns:lxhRatingBar="http://schemas.android.com/apk/res-auto"
-        android:id="@+id/ratingBar3"
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         lxhRatingBar:canEdit="false"
@@ -42,6 +42,7 @@
 
     <com.example.xlhratingbar_lib.XLHRatingBar
         xmlns:lxhRatingBar="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/ratingBar3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         lxhRatingBar:canEdit="false"

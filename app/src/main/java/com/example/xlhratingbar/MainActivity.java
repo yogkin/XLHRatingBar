@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
     private void initView() {
         XLHRatingBar xlhRatingBar3 = (XLHRatingBar) findViewById(R.id.ratingBar3);
         xlhRatingBar3.setCountSelected(1);
+        xlhRatingBar3.setCanEdit(true);
         final TextView tvResult = (TextView) findViewById(R.id.tv_result);
         XLHRatingBar ratingBar = (XLHRatingBar) findViewById(R.id.ratingBar4);
         ratingBar.setCountNum(5);

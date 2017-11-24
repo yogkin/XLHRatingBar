@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/XLHRatingBar.iml" filepath="$PROJECT_DIR$/XLHRatingBar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/XLHRatingBar.iml" filepath="$PROJECT_DIR$/.idea/XLHRatingBar.iml" />
+      <module fileurl="file://D:\WebStromProject\XLHRatingBar\XLHRatingBar.iml" filepath="D:\WebStromProject\XLHRatingBar\XLHRatingBar.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\WebStromProject\XLHRatingBar\app\app.iml" filepath="D:\WebStromProject\XLHRatingBar\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/xlhratingbar_lib/xlhratingbar_lib.iml" filepath="$PROJECT_DIR$/xlhratingbar_lib/xlhratingbar_lib.iml" />
+      <module fileurl="file://D:\WebStromProject\XLHRatingBar\xlhratingbar_lib\xlhratingbar_lib.iml" filepath="D:\WebStromProject\XLHRatingBar\xlhratingbar_lib\xlhratingbar_lib.iml" />
     </modules>
   </component>
 </project>
